@@ -18,6 +18,12 @@ Happy coding!
 The Cloud9 IDE team
 
 
+A todo app built with the MEAN Stack.
 
+MEAN stands for
 
-MEAN Angular.js
+MongoDB
+Express
+Angular
+Node
+
